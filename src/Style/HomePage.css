@@ -1,0 +1,15 @@
+.home_container{
+  /* background-image: linear-gradient(rgb(0, 0, 0, 0.8), rgb(0, 0, 0, 0.8)), url(../Assets/Images/background.jpg); */
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.sidebar {
+    background-color: #f8f9fa;
+    box-shadow: 50px;
+    height: 100% !important;
+  }
+
+
+
